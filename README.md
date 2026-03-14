@@ -4,4 +4,3 @@ Pohon Natal ini menggunakan python dan akan diupdate secara berkala
 ---
 Pohon Natal 1.0
 
-![alt text](image-1.png)
