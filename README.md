@@ -10,3 +10,4 @@ Pohon Natal ini menggunakan python dan akan diupdate secara berkala
 
 # Pohon Natal 2.0:
 
+![alt text](image2.png)
